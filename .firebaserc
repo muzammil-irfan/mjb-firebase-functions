@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "test-elevaite-fitness-6a59e",
+    "test-elevate-fitness": "test-elevaite-fitness-6a59e"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
